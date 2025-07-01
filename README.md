@@ -31,8 +31,8 @@ Saya Senang Mempelajari Teknologi Baru Dan Mengembangkan Proyek Open Source Yang
 ## Contact Me
 
 - Email: modzneverdie@gmail.com 
-- GitHub: Modz@001 (https://github.com/username)
-- WhatsApp : Klik Untuk Chat (https://wa.me/62xxxxxxxxxx)  
+- GitHub: [Modz@001](https://github.com/username)
+- WhatsApp : [Klik Untuk Chat](https://wa.me/6283163234218)  
 
 ---
 
