@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Modz</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-[Kota%2C%20Negara]-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Tangerang%2C%20Indonesia-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Tech-JavaScript%20%7C%20Node.js-yellow?style=flat-square&logo=javascript" />
 </p>
 
