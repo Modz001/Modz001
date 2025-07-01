@@ -32,7 +32,7 @@ Saya Senang Mempelajari Teknologi Baru Dan Mengembangkan Proyek Open Source Yang
 
 - 📫 Email: [modz@domain.com]  
 - 🌐 GitHub: [https://github.com/username](https://github.com/username)  
-- 💬 WhatsApp: [Klik Untuk Chat](https://wa.me/62xxxxxxxxxx)  
+- 💬 WhatsApp : Klik Untuk Chat(https://wa.me/62xxxxxxxxxx)  
 
 ---
 
