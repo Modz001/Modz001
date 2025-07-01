@@ -9,7 +9,7 @@
 
 ## About Me
 
-Saya Seorang Siswa SMP Yang Tertarik Dalam Bidang Programmer.  
+Saya Seorang Siswa SMP Yang Tertarik Dalam Bidang Pemrograman.  
 Saya Senang Mempelajari Teknologi Baru Dan Mengembangkan Proyek Open Source Yang Berguna.
 
 ---
@@ -17,9 +17,9 @@ Saya Senang Mempelajari Teknologi Baru Dan Mengembangkan Proyek Open Source Yang
 ## Skills
 
 - Pemrograman : JavaScript, Node.js, Python
-- Tools: Baileys, Git 
-- Web Development: HTML, CSS  
-- Lainnya: REST API, Database  
+- Tools : Baileys, Git 
+- Web Development : HTML, CSS  
+- Lainnya : REST API, Database  
 
 ---
 
@@ -37,5 +37,5 @@ Saya Senang Mempelajari Teknologi Baru Dan Mengembangkan Proyek Open Source Yang
 ---
 
 <p align="center">
-  Dibuat Dengan ❤️ Oleh Modz
+  Dibuat Oleh Modz
 </p>
