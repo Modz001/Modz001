@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zidan</h1>
+<h1 align="center">Hi, I'm Modz</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-[Kota%2C%20Negara]-blue?style=flat-square" />
@@ -30,12 +30,12 @@ Saya Senang Mempelajari Teknologi Baru Dan Mengembangkan Proyek Open Source Yang
 
 ## Contact Me
 
-- 📫 Email: [modz@domain.com]  
-- 🌐 GitHub: [https://github.com/username](https://github.com/username)  
-- 💬 WhatsApp : Klik Untuk Chat(https://wa.me/62xxxxxxxxxx)  
+- Email: modzneverdie@gmail.com 
+- GitHub: Modz@001 (https://github.com/username)
+- WhatsApp : Klik Untuk Chat (https://wa.me/62xxxxxxxxxx)  
 
 ---
 
 <p align="center">
-  Dibuat Dengan ❤️ Oleh [Nama Kamu]
+  Dibuat Dengan ❤️ Oleh Modz
 </p>
